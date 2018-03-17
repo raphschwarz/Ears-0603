@@ -3,6 +3,8 @@ Mutable Instruments/Music Thing Modular . Ears, 0603 edit, eurorack module for h
 TESTED AND WORKING
 
 NOTES
--Silkscreen is too small to be readable , use the eagle file
-i used 1n4148 for the diodes
+
+-Silkscreen is too small to be readable , use the eagle file.
+
+-i used 1n4148 for the diodes
 
