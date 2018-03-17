@@ -1,5 +1,7 @@
 Mutable Instruments/Music Thing Modular . Ears, 0603 edit, eurorack module for hand soldering
 
-Untested preliminary version
+TESTED AND WORKING
 
-30/11 received the boards from fab house, waiting for some smd lm324
+NOTES
+-Silkscreen is too small to be readable , use the eagle file
+
